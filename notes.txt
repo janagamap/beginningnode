@@ -1,0 +1,3 @@
+Since JavaScript allows us to assign functions to variables, we can pass functions to other functions.
+  Functions that take functions as arguments are called higher-order functions.
+  A very common example of a higher-order function is setTimeout.
